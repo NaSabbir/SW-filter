@@ -1,5 +1,5 @@
 //Author: Nazir Ahmed Sabbir
-//Author URI: http://iamsabbir.me
+//Author URL: http://iamsabbir.me
 //Github link: https://github.com/NaSabbir/SW-filter
 
 
