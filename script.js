@@ -2,9 +2,6 @@
 //Author URL: http://iamsabbir.me
 //Github link: https://github.com/NaSabbir/SW-filter
 
-
-
-
 function click(elem) {
   var evt = document.createEvent('Event');
   evt.initEvent('click', true, true);
