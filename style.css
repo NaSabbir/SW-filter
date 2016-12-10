@@ -1,0 +1,73 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.footer {
+ padding: 10px 0;
+ background-color: #f5f5f5;
+ font-size: 14px;
+}
+
+h1 {
+  color: #229954 ;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.manifesto{
+    background:  #229954 ;
+    color: #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin: 10px 0;
+    box-shadow: 0px 2px 10px 5px #ccc;
+}
+a {
+  color: #3b8bba;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.transform-app {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+
+.download-btn {
+  margin: 40px 0 0 0;
+}
+
+#download-btn {
+  display: none;
+}
+
+.push {
+  height: 4em;
+}
+
+button{
+  background: #229954 ;
+  color: #fff;
+  padding: 10px;
+  border: 0;
+  margin-bottom: 40px;
+
+}
